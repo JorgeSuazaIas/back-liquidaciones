@@ -25,4 +25,5 @@ public class EmployeeEntity {
     private String position;
     @Column(name = "employee_salary")
     private int salary;
+
 }
